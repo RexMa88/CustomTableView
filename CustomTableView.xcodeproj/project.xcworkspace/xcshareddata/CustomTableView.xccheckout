@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6EF4EEBB-9645-4CBD-A0C3-D10AE22B9F51</string>
+	<key>IDESourceControlProjectName</key>
+	<string>project</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>580135FAC173D48DC3A38B386CE289A126C86AFC</key>
+		<string>https://github.com/RexMa88/CustomTableView.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CustomTableView.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>580135FAC173D48DC3A38B386CE289A126C86AFC</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/RexMa88/CustomTableView.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>580135FAC173D48DC3A38B386CE289A126C86AFC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>580135FAC173D48DC3A38B386CE289A126C86AFC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CustomTableView</string>
+		</dict>
+	</array>
+</dict>
+</plist>
