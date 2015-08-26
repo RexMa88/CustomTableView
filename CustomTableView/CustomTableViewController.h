@@ -33,3 +33,11 @@ typedef enum TableViewType{
 - (id)initWithFrame:(CGRect)rect withType:(TableViewType)tableViewType;
 
 @end
+
+@interface CustomTableViewCell : UITableViewCell
+
+@property (strong, nonatomic) UIImageView *headerImg;
+
+@property (strong, nonatomic) UILabel *titleLabel;
+
+@end

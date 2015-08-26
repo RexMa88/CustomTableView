@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>6EF4EEBB-9645-4CBD-A0C3-D10AE22B9F51</string>
+	<string>F13EEF20-DD5F-4DC1-94E1-A5144E383CA6</string>
 	<key>IDESourceControlProjectName</key>
 	<string>CustomTableView</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -14,11 +14,11 @@
 		<string>https://github.com/RexMa88/CustomTableView.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>CustomTableView.xcodeproj</string>
+	<string>CustomTableView.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>580135FAC173D48DC3A38B386CE289A126C86AFC</key>
-		<string>../..</string>
+		<string>..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>https://github.com/RexMa88/CustomTableView.git</string>
