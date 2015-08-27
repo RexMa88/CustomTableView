@@ -8,29 +8,19 @@
 
 #import <UIKit/UIKit.h>
 
-typedef enum TableViewType{
-    TableViewTypeGrouped,
-    TableViewTypePlain
-}TableViewType;
-
 @interface CustomTableViewController : UIViewController
 /**
  *  视图:TableView
  */
-@property (strong, nonatomic) UITableView *tableView;
+@property (weak, nonatomic) IBOutlet UITableView *tableView;
 /**
  *  分页:记录页码
  */
 @property (assign, nonatomic) int page;
 /**
- *  表视图初始化大小
- *
- *  @param rect          大小
- *  @param tableViewType 表视图种类
- *
- *  @return tableView实例
+ *  数据源
  */
-- (id)initWithFrame:(CGRect)rect withType:(TableViewType)tableViewType;
+@property (strong, nonatomic) NSMutableArray *dataArray;
 
 @end
 
@@ -39,5 +29,7 @@ typedef enum TableViewType{
 @property (strong, nonatomic) UIImageView *headerImg;
 
 @property (strong, nonatomic) UILabel *titleLabel;
+
+- (void)useMasonryLayout;
 
 @end
